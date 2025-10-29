@@ -7,20 +7,21 @@
 - 🌱 Atualmente trabalho como desenvolvedor Front-end e "quebra galho" no suporte, no serviço público e me dedico a desenvolver mais minhas habilidades como desenvolvedor web, através de cursos e troca de experiências com outros dev's.
 - 🧑 Pronomes: He/Him
   
-<details open>
-<summary>:zap: Tecnologias</summary>
-<div style="display: inline_block">
-  
-  <img align="center" alt="PHPLogo" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="JavaLogo" height="48" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />       
-  <img align="center" alt="AngularLogo" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />        
-  <img  align="center" alt="SpringLogo" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-   <img align="center" alt="Html5Logo" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" alt="CSSLogo" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-          
-</div>
-</details>
-
+<!-- 
+  <details open>
+  <summary>:zap: Tecnologias</summary>
+  <div style="display: inline_block">
+    
+    <img align="center" alt="PHPLogo" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img align="center" alt="JavaLogo" height="48" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />       
+    <img align="center" alt="AngularLogo" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />        
+    <img  align="center" alt="SpringLogo" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+     <img align="center" alt="Html5Logo" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+    <img align="center" alt="CSSLogo" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+            
+  </div>
+  </details>
+-->
 <div>
 <a href="https://www.linkedin.com/in/bartolomeu-alheiros-8a1641142/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">

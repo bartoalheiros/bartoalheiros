@@ -2,7 +2,7 @@
 - 👨‍🎓 Bacharel em Ciência da Computação pela UFRPE, Recife, Pernambuco, Brasil.
 - 👽 Sou desenvolvedor web fullstack.
 - 💻 Stacks com as quais eu já trabalhei: ***( PHP & HTML & CSS & JQuery & Javascript & Ajax )*** , ***( Laravel & HTML & CSS & Javascript & JQuery & Ajax )*** , ***Next.js***.
-- 👨‍💻 Tecnologias que já andei estudando: Angular e Vue.js e Python para web (Django).
+- 👨‍💻 Tecnologias que já andei estudando: Angular, Vue.js, Python para web (Django), Java, Spring.
 - 🕵️‍♀️ Aberto a projetos
 - 🌱Atualmente trabalho como Analista de Sistemas Júnior, numa empresa terceirizada do setor público ; No momento estudo PHP.
 - 🧑 Pronomes: He/Him

@@ -1,12 +1,16 @@
 ### Olá, me chamo o Bartolomeu Alheiros! 👋
-- 👨‍🎓 Bacharel em Ciência da Computação pela UFRPE, Recife, Pernambuco, Brasil.
-- Pós Graduando em Análise e Desenvolvimento de Sistemas.
+- Sou 👨‍🎓 Bacharel em Ciência da Computação pela UFRPE, Recife, Pernambuco, Brasil e trabalho no mercado de desenvolvimento de software há 4 anos.
+- Sou Pós Graduando em Análise e Desenvolvimento de Sistemas.
 - 👽 Sou desenvolvedor web fullstack.
 - 💻 Stacks com as quais eu já trabalhei: ***( PHP & HTML & CSS & JQuery & Javascript & Ajax )*** , ***( Laravel & HTML & CSS & Javascript & JQuery & Ajax )*** , ***Next.js***.
 - 👨‍💻 Tecnologias que já andei estudando: Angular, Vue.js, Python para web (Django), Java, Spring.
-- 🕵️‍♀️ Aberto a projetos
-- 🌱Atualmente trabalho como Analista de Sistemas Júnior, numa empresa terceirizada do setor público ; No momento estudo Python.
+- Gosto muito de trabalhos com análise de dados, jogos ou qualquer coisa que me interessar.
+- Me interesso muito por Automação e IA.
+- Sou técnico em eletrônica pelo Instituto Federal de Pernambuco.(IFPE)
+- 🕵️‍♀️ Estou Aberto a projetos
+- 🌱Atualmente trabalho como Analista de Sistemas Júnior, numa empresa do setor público ; No momento estudo Python.
 - 🧑 Pronomes: He/Him
+- Entre em contato comigo pelo Linkedin, vai ser um prazer.
   
 <!-- 
   <details open>

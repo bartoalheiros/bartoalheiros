@@ -1,4 +1,4 @@
-### Olá, eu sou o Bartô Alheiros! 👋
+### Olá, me chamo o Bartolomeu Alheiros! 👋
 - 👨‍🎓 Bacharel em Ciência da Computação pela UFRPE, Recife, Pernambuco, Brasil.
 - Pós Graduando em Análise e Desenvolvimento de Sistemas.
 - 👽 Sou desenvolvedor web fullstack.

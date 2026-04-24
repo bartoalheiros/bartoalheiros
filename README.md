@@ -1,4 +1,4 @@
-### Olá, me chamo o Bartolomeu Alheiros! 👋
+### Olá, me chamo Bartolomeu Alheiros! 👋
 - Sou 👨‍🎓 Bacharel em Ciência da Computação pela UFRPE, Recife, Pernambuco, Brasil e trabalho no mercado de desenvolvimento de software há 4 anos.
 - Sou Pós Graduando em Análise e Desenvolvimento de Sistemas.
 - 👽 Sou desenvolvedor web fullstack.

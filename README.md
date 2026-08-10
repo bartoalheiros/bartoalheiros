@@ -10,7 +10,7 @@
 - 🕵️‍♀️ Estou Aberto a projetos
 - 🌱Atualmente trabalho como Analista de Sistemas Júnior, numa empresa do setor público ; No momento estudo Python.
 - 🧑 Pronomes: He/Him
-- Entre em contato comigo pelo Linkedin.
+- Entre em contato comigo pelo [Linkedin](https://google.com)
 
 <div>
     <a href="https://www.linkedin.com/in/bartolomeu-alheiros-8a1641142/" target="_blank">

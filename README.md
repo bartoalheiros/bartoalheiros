@@ -2,7 +2,7 @@
 - Sou 👨‍🎓 Bacharel em Ciência da Computação pela UFRPE, Recife, Pernambuco, Brasil e trabalho no mercado de desenvolvimento de software há 4 anos.
 - Sou Pós Graduando em Análise e Desenvolvimento de Sistemas.
 - 👽 Sou desenvolvedor web fullstack.
-- 💻 Stacks com as quais eu já trabalhei: ***( PHP & HTML & CSS & JQuery & Javascript & Ajax )*** , ***( Laravel & HTML & CSS & Javascript & JQuery & Ajax )*** , ***Next.js***.
+- 💻 Tecnologias com as quais eu já trabalhei: ***( PHP & Laravel & HTML & CSS & JQuery & Javascript & Ajax )*** | ***Next.js***.
 - 👨‍💻 Tecnologias que já andei estudando: Angular, Vue.js, Python para web (Django), Java, Spring.
 - Gosto muito de trabalhos com análise de dados, jogos ou qualquer coisa que me interessar.
 - Me interesso muito por Automação e IA.

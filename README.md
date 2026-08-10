@@ -13,19 +13,6 @@
 - Entre em contato comigo pelo [Linkedin](https://google.com)
 
 <p>
-
-<a href="https://www.linkedin.com/in/bartolomeu-alheiros-8a1641142/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> 
-
-<a>
-    <img alt="SDKMAN Version" src="https://img.shields.io/sdkman/v/:candidate">
-</a>
-
-<a>
-    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat">
-</a>
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 </p>

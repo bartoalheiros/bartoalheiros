@@ -10,7 +10,6 @@
 - 🕵️‍♀️ Estou Aberto a projetos
 - 🌱Atualmente trabalho como Analista de Sistemas Júnior, numa empresa do setor público ; No momento estudo Python.
 - 🧑 Pronomes: He/Him
-- Entre em contato comigo pelo [Linkedin](https://google.com)
 
 <p>
   

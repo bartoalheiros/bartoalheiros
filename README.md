@@ -1,5 +1,5 @@
 ### Olá, me chamo Bartolomeu Alheiros! 👋
-- Sou 👨‍🎓 Bacharel em Ciência da Computação pela UFRPE, Recife, Pernambuco, Brasil e trabalho no mercado de desenvolvimento de software há 4 anos.
+- Sou 👨‍🎓 Bacharel em Ciência da Computação pela UFRPE, Recife, Pernambuco, Brasil e trabalho no mercado de desenvolvimento de software há 5 anos.
 - Sou Pós Graduando em Análise e Desenvolvimento de Sistemas.
 - 👽 Sou desenvolvedor web fullstack.
 - 💻 Tecnologias com as quais eu já trabalhei: ***( PHP & Laravel & HTML & CSS & JQuery & Javascript & Ajax )*** | ***Next.js*** | ***Vue.js***.

@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
 <a>
-    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat-square">
+    ![Java](https://shields.io)
 </a>
 <a>
     <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat">

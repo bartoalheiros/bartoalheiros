@@ -1,14 +1,14 @@
-### Olá, me chamo Bartolomeu Alheiros! 👋
-- Sou 👨‍🎓 Bacharel em Ciência da Computação pela UFRPE, Recife, Pernambuco, Brasil e trabalho no mercado de desenvolvimento de software há 5 anos.
+### Olá, sou Bartolomeu Alheiros! 👋
+- 👨‍🎓 Bacharel em Ciência da Computação , trabalho no mercado de desenvolvimento de software há mais ou menos 4 anos.
 - Sou Pós Graduando em Análise e Desenvolvimento de Sistemas.
-- 👽 Sou desenvolvedor web fullstack.
-- 💻 Tecnologias com as quais eu já trabalhei: ***( PHP & Laravel & HTML & CSS & JQuery & Javascript & Ajax )*** | ***Next.js*** | ***Vue.js***.
-- 👨‍💻 Tecnologias que já andei estudando: Angular, Vue.js, Python para web (Django), Java, Spring.
-- Gosto muito de trabalhos com análise de dados, jogos ou qualquer coisa que me interessar.
+- 👽 Desenvolvedor web fullstack.
+- 💻 Tecnologias com as quais já trabalhei: ***( PHP & Laravel & HTML & CSS & JQuery & Javascript & Ajax )***
+- 👨‍💻 Também tenho alguma familiaridade com: Python, R, Vue.js, Java e Spring.
+- Bancos de dados que já utilizei: MySQL, PostgreSQL e já tive algum contato com NoSQL.
+- Gosto muito de trabalhos com análise de dados e também com jogos pela possibilidade de criar mundos.
 - Me interesso muito por Automação e IA.
-- Sou técnico em eletrônica pelo Instituto Federal de Pernambuco.(IFPE)
-- 🕵️‍♀️ Estou Aberto a projetos
-- 🌱Atualmente trabalho como Analista de Sistemas Júnior, numa empresa do setor público ; No momento estudo Python.
+- Sou técnico em eletrônica pelo Instituto Federal de Pernambuco.(IFPE) e gosto de estudar eletrônica e consertar computadores e eletrônicos nas horas vagas.
+- 🌱Atualmente trabalho como Analista de Sistemas Júnior, em empresa do setor público ;
 - 🧑 Pronomes: He/Him
 
 <p>
